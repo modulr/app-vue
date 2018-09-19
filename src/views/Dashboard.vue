@@ -4,7 +4,7 @@
     <v-content>
       <v-container fluid fill-height>
         <v-layout justify-center align-center>
-          <h1>This is an about page</h1>
+          <h1>This is an dashboard page</h1>
         </v-layout>
       </v-container>
     </v-content>
@@ -16,7 +16,7 @@
 import Header from '@/partials/Header.vue'
 
 export default {
-  name: 'about',
+  name: 'dashboard',
   components: {
     Header
   }
